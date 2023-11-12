@@ -1,0 +1,66 @@
+/*
+    selector {
+        propiedad: valor ;
+        propiedad: valor;
+    }
+    */
+
+body {
+    /* Cambiar color de fondo */
+    background-color: rgb(208, 223, 248);
+    /* Cambiar color de texto */
+color: rgb(247, 93, 79);
+    /*  Cambiar tipo de letra */
+    font-family: 'Edu TAS Beginner', cursive;
+font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    color: #693dc7;
+    font-family: 'Anton', sans-serif;
+    align-items: center;
+    margin-left: 40%;
+    font-size: 50px;
+}
+
+h3 {
+    color: rgb(24, 95, 6);
+}
+
+a{
+    color: rgb(176, 9, 156);
+    align-items: center;
+    font-size: 20px
+}
+
+img{
+    /* width: ancho del objeto //  height: alto del objeto  */
+    width: 40%;
+}
+
+.caricia {
+    width: 70%;
+    height: 100%;
+    border-radius: 100%;
+    margin-left: 17%;
+}
+
+.perrito2{
+    border-radius: 70%;
+    margin-left: 7%;
+    height: 80%;
+    width: 43%;
+}
+
+.perrito3 {
+    border-radius: 70%;
+    width: 40%;
+    margin-left: 2%;
+}
+.bongo{
+    width: 300px;
+    /* border radius */
+    border-radius: 15%;
+    /* Sombras */
+    box-shadow: 10px 10px 60px blueviolet;
+}
